@@ -1,5 +1,6 @@
 # EaglerCraftX
 EaglerCraft Client Collections  
+**Pull Requests will not be checked on Github, only Gitea.**  
 **https://git.eaglercraft.win/EaglercraftX-Client-Collections/EaglercraftX-Site**  
 **https://www.eaglercraft.win**  
 

@@ -17,6 +17,10 @@ function addGoogleAnalyticsTags() {
             console.log("Matched Render");
             trackingId = "G-MND1TVBSXV";
             break;
+        case "play.eaglercraft.win":
+            console.log("Matched Netlify / Play");
+            trackingId = "G-759HWVCM2S";
+            break;
         case "fastest.eaglercraft.win":
             console.log("Matched Netlify / Fastest");
             trackingId = "G-0FMCWKD9KG";
